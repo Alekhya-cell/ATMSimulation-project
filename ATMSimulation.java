@@ -12,7 +12,7 @@ class ATMSimulation {
         
         System.out.println("Account created Successfully");
         
-        //ystem.out.println("i value is :"+i);
+        //system.out.println("i value is :"+i);
         
     }
     double checkBalance(double[] balance,int index) {
